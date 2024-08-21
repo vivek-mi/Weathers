@@ -1,2 +1,2 @@
 # weather
-https://sohail700.github.io/weathers/
+https://vivek-mi.github.io/Weathers/
